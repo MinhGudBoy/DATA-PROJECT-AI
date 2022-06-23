@@ -1,0 +1,5 @@
+train: ../train/images
+val: ../valid/images
+
+nc: 7
+names: ['CB500F', 'CB500X', 'CB650R', 'CBR500R', 'CBR650R', 'Gold Wing', 'HRC RCV 213']
